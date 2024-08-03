@@ -1,0 +1,11 @@
+{
+    "name": "lambda-cron-job",
+    "version": "1.0.0",
+    "scripts": {
+        "start": "node cron.js"
+    },
+    "dependencies": {
+        "node-cron": "^2.0.3",
+        "node-fetch": "^2.6.1"
+    }
+}
